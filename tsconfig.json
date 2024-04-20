@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "skipLibCheck": true,
+
+        "jsx": "react",
+        "module": "ESNext",
+        "outDir": "dist",
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution":"Bundler",
+        "paths": {
+            "@/*" : ["./src/*"]
+        },
+    },
+    "include": [
+        "**/*.ts", 
+        "**/*.tsx", 
+        "**/*.d.ts", 
+        "vite.config.js"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist",
+        "types",
+    ]
+}
