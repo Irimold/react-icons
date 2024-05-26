@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/Irimold/react-icons/compare/v0.1.2...v0.1.3) (2024-05-26)
+
+
+### Bug Fixes
+
+* Change tags ([009f485](https://github.com/Irimold/react-icons/commit/009f4854ff297886edb2ae9a2e76452c33087f98))
+
 ## [0.1.2](https://github.com/Irimold/react-icons/compare/v0.1.1...v0.1.2) (2024-05-26)
 
 
