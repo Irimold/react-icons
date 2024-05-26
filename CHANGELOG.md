@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/Irimold/react-icons/compare/v0.1.1...v0.1.2) (2024-05-26)
+
+
+### Bug Fixes
+
+* Icon color doesn't use inheritted color ([94e0512](https://github.com/Irimold/react-icons/commit/94e0512ad276a573565abca65631f262464af9a4))
+
 ## [0.1.1](https://github.com/Irimold/react-icons/compare/v0.1.0...v0.1.1) (2024-04-20)
 
 
