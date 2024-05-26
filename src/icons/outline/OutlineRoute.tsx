@@ -13,7 +13,7 @@ export const OutlineRoute = ({
         {...props}
     >
         <path
-            stroke="#3D9EC4"
+            stroke="currentColor"
             strokeWidth={4}
             d="M5.333 14.019c0-4.798 4.179-8.686 9.334-8.686C19.82 5.333 24 9.221 24 14.02c0 4.76-2.979 10.314-7.627 12.301a4.37 4.37 0 0 1-3.413 0c-4.648-1.987-7.627-7.541-7.627-12.301Zm34.667 32c0-4.798 4.179-8.686 9.333-8.686 5.155 0 9.334 3.888 9.334 8.686 0 4.76-2.98 10.314-7.627 12.301a4.368 4.368 0 0 1-3.413 0C42.979 56.333 40 50.779 40 46.019Z"
         />
@@ -23,7 +23,7 @@ export const OutlineRoute = ({
             opacity={0.5}
         />
         <path
-            stroke="#3D9EC4"
+            stroke="currentColor"
             strokeLinecap="round"
             strokeLinejoin="round"
             strokeWidth={5.333}

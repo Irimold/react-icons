@@ -13,7 +13,7 @@ export const OutlineDestroyed = ({
         {...props}
     >
         <path
-            stroke="#3D9EC4"
+            stroke="currentColor"
             strokeWidth={4}
             d="M34.667 6.667v6.666c0 6.286 0 9.43 1.952 11.382S41.715 26.667 48 26.667h10.667"
             opacity={0.5}

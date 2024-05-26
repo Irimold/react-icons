@@ -13,7 +13,7 @@ export const FilledForward = ({
         {...props}
     >
         <path
-            stroke="#3D9EC4"
+            stroke="currentColor"
             strokeLinecap="round"
             strokeLinejoin="round"
             strokeWidth={4}
