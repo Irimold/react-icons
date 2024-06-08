@@ -75,3 +75,7 @@ export {
     OutlineUpload,
     OutlineWarning,
 } from "@/icons/outline"
+
+export type {
+    IconProps
+} from "@/icons/types"
