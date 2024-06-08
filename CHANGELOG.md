@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/Irimold/react-icons/compare/v0.1.3...v0.2.0) (2024-06-08)
+
+
+### Features
+
+* export icon props ([ecfd707](https://github.com/Irimold/react-icons/commit/ecfd70715dee72375cb411cf4bf3d4c6ea606ae7))
+
 ## [0.1.3](https://github.com/Irimold/react-icons/compare/v0.1.2...v0.1.3) (2024-05-26)
 
 
