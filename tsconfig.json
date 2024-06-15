@@ -6,7 +6,7 @@
         "strict": true,
         "skipLibCheck": true,
 
-        "jsx": "react-jsx",
+        "jsx": "react",
         "module": "ESNext",
         "outDir": "dist",
         "allowSyntheticDefaultImports": true,

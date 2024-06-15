@@ -1,3 +1,4 @@
+import * as React from "react"
 import type { IconProps } from "../types";
 export const OutlineKey = ({
     size = 64,

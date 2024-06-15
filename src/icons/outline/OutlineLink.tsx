@@ -1,3 +1,4 @@
+import * as React from "react"
 import type { IconProps } from "../types";
 export const OutlineLink = ({
     size = 64,
