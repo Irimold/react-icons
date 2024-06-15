@@ -14,6 +14,7 @@ export { FilledImage } from "./FilledImage";
 export { FilledIndeterminate } from "./FilledIndeterminate";
 export { FilledKey } from "./FilledKey";
 export { FilledLayer } from "./FilledLayer";
+export { FilledLeft } from "./FilledLeft";
 export { FilledLink } from "./FilledLink";
 export { FilledLoader0 } from "./FilledLoader0";
 export { FilledLoader1 } from "./FilledLoader1";
@@ -24,6 +25,7 @@ export { FilledLogout } from "./FilledLogout";
 export { FilledPlus } from "./FilledPlus";
 export { FilledPortfolio } from "./FilledPortfolio";
 export { FilledRepo } from "./FilledRepo";
+export { FilledRight } from "./FilledRight"
 export { FilledRoute } from "./FilledRoute";
 export { FilledSave } from "./FilledSave";
 export { FilledSearch } from "./FilledSearch";
