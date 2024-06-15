@@ -1,4 +1,3 @@
-import * as React from "react"
 import type { IconProps } from "../types";
 export const OutlineLoader1 = ({
     size = 64,
