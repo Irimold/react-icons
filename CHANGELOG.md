@@ -1,12 +1,5 @@
 # Changelog
 
-## [0.3.0](https://github.com/Irimold/react-icons/compare/v0.2.0...v0.3.0) (2024-06-15)
-
-
-### Features
-
-* Add Left and Right Icons ([976de53](https://github.com/Irimold/react-icons/commit/976de53eb6fa77668e20148eb59f70e941d49082))
-
 ## [0.2.0](https://github.com/Irimold/react-icons/compare/v0.1.3...v0.2.0) (2024-06-08)
 
 
