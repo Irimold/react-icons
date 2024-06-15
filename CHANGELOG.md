@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/Irimold/react-icons/compare/v0.3.0...v0.3.1) (2024-06-15)
+
+
+### Bug Fixes
+
+* Remove import react and remove invisible character ([93d2cac](https://github.com/Irimold/react-icons/commit/93d2cac3588057fa6242fc4020ec7d53d91e189c))
+
 ## [0.2.0](https://github.com/Irimold/react-icons/compare/v0.1.3...v0.2.0) (2024-06-08)
 
 
