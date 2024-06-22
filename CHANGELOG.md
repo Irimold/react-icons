@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/Irimold/react-icons/compare/v0.4.0...v0.4.1) (2024-06-22)
+
+
+### Bug Fixes
+
+* **Dependency:** Update dependencies ([9948745](https://github.com/Irimold/react-icons/commit/99487458f9edfddf1b42ed055dbcb1e4a7e7f307))
+
 ## [0.4.0](https://github.com/Irimold/react-icons/compare/v0.3.1...v0.4.0) (2024-06-22)
 
 
