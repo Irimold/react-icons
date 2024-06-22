@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/Irimold/react-icons/compare/v0.3.1...v0.4.0) (2024-06-22)
+
+
+### Features
+
+* **File:** Add file icon ([5676a75](https://github.com/Irimold/react-icons/commit/5676a75725014bf0904100f214ead4088751e305))
+
 ## [0.3.1](https://github.com/Irimold/react-icons/compare/v0.3.0...v0.3.1) (2024-06-15)
 
 
