@@ -1,8 +1,10 @@
-import type * as types from "../types";
-export const OutlineIndeterminate = ({
+import { FC } from "react";
+import { IconProps } from "../types";
+
+export const OutlineIndeterminate : FC<IconProps> = ({
     size = 64,
     ...props
-} : types.IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -22,5 +24,4 @@ export const OutlineIndeterminate = ({
             opacity={0.5}
         />
     </svg>
-);
- 
+)

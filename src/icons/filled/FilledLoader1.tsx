@@ -1,8 +1,10 @@
+import { FC } from "react";
 import type { IconProps } from "../types";
-export const FilledLoader1 = ({
+
+export const FilledLoader1 : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -22,5 +24,4 @@ export const FilledLoader1 = ({
             <path d="M28.667 32.832c0-2.368 1.36-4.205 3.874-5.427 2.566-1.248 6.144-1.717 9.846-1.194 7.44 1.056 14.28 5.861 14.28 14.621a2 2 0 1 0 4 0c0-11.51-9.163-17.368-17.72-18.581-4.3-.608-8.72-.115-12.155 1.557-3.486 1.693-6.126 4.72-6.126 9.021a2 2 0 0 0 4 0z" />
         </g>
     </svg>
-);
- 
+)

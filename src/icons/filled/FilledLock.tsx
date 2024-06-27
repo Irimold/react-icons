@@ -1,8 +1,10 @@
+import { FC } from "react";
 import type { IconProps } from "../types";
-export const FilledLock = ({
+
+export const FilledLock : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -21,5 +23,4 @@ export const FilledLock = ({
             d="M32 48a5.333 5.333 0 1 0 0-10.666A5.333 5.333 0 0 0 32 48M18 21.333a14 14 0 0 1 28 0v5.344c1.512.014 2.837.048 4 .134v-5.478a18 18 0 1 0-36 0v5.48a62.873 62.873 0 0 1 4-.136z"
         />
     </svg>
-);
- 
+)

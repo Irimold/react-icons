@@ -1,8 +1,10 @@
+import { FC } from "react";
 import type { IconProps } from "../types";
-export const OutlineRoute = ({
+
+export const OutlineRoute : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -29,5 +31,4 @@ export const OutlineRoute = ({
             d="M49.333 46.667h.024m-34.717-32h.027"
         />
     </svg>
-);
- 
+)

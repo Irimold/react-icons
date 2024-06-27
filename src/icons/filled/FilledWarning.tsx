@@ -1,8 +1,10 @@
+import { FC } from "react";
 import type { IconProps } from "../types";
-export const FilledWarning = ({
+
+export const FilledWarning : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -21,5 +23,4 @@ export const FilledWarning = ({
             d="M32 16.667a2 2 0 0 1 2 2v16a2 2 0 0 1-4 0v-16a2 2 0 0 1 2-2m0 28.666A2.666 2.666 0 1 0 32 40a2.666 2.666 0 0 0 0 5.333"
         />
     </svg>
-);
- 
+)

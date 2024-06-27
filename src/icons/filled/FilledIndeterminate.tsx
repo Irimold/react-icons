@@ -1,8 +1,10 @@
+import { FC } from "react";
 import type { IconProps } from "../types";
-export const FilledIndeterminate = ({
+
+export const FilledIndeterminate : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -21,5 +23,4 @@ export const FilledIndeterminate = ({
             d="M21.333 34.667a2.667 2.667 0 1 0 0-5.333 2.667 2.667 0 0 0 0 5.333m10.667 0a2.667 2.667 0 1 0 0-5.334 2.667 2.667 0 0 0 0 5.334m10.667 0a2.667 2.667 0 1 0 0-5.334 2.667 2.667 0 0 0 0 5.334"
         />
     </svg>
-);
- 
+)

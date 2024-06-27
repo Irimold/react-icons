@@ -1,8 +1,10 @@
+import { FC } from "react";
 import type { IconProps } from "../types";
-export const FilledImage = ({
+
+export const FilledImage : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -27,5 +29,4 @@ export const FilledImage = ({
             opacity={0.4}
         />
     </svg>
-);
- 
+)

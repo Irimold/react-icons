@@ -1,8 +1,10 @@
+import { FC } from "react";
 import type { IconProps } from "../types";
-export const OutlineSync = ({
+
+export const OutlineSync : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -25,5 +27,4 @@ export const OutlineSync = ({
             d="M45.333 26.667H18.667l9.167-8m-9.167 18.666h26.666l-9.165 8"
         />
     </svg>
-);
- 
+)

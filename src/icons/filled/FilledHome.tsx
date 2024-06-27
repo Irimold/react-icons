@@ -1,8 +1,10 @@
+import { FC } from "react";
 import type { IconProps } from "../types";
-export const FilledHome = ({
+
+export const FilledHome : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -21,5 +23,4 @@ export const FilledHome = ({
             d="M25.192 41.061a2 2 0 0 0-2.384 3.214A15.376 15.376 0 0 0 32 47.333a15.376 15.376 0 0 0 9.192-3.058 2.002 2.002 0 0 0-2.384-3.216A11.376 11.376 0 0 1 32 43.333a11.375 11.375 0 0 1-6.808-2.272"
         />
     </svg>
-);
- 
+)

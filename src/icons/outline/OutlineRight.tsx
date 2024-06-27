@@ -1,8 +1,10 @@
+import { FC } from "react";
 import { IconProps } from "../types";
-export const OutlineRight = ({
+
+export const OutlineRight : FC<IconProps> = ({
     size = 64,
     ...props
-} : IconProps) => (
+}) => (
     <svg
         xmlns="http://www.w3.org/2000/svg"
         width={size}
@@ -19,5 +21,4 @@ export const OutlineRight = ({
             d="M24 13.333 40 32 24 50.667"
         />
     </svg>
-);
-
+)
