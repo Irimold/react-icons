@@ -24,6 +24,7 @@ export {
     FilledLock,
     FilledLogin,
     FilledLogout,
+    FilledPen,
     FilledPlus,
     FilledPortfolio,
     FilledRepo,
@@ -37,6 +38,7 @@ export {
     FilledTrash,
     FilledUnlock,
     FilledUpload,
+    FilledUser,
     FilledWarning,
 } from "@/icons/filled"
 
@@ -66,6 +68,7 @@ export {
     OutlineLock,
     OutlineLogin,
     OutlineLogout,
+    OutlinePen,
     OutlinePlus,
     OutlinePortfolio,
     OutlineRepo,
@@ -79,6 +82,7 @@ export {
     OutlineTrash,
     OutlineUnlock,
     OutlineUpload,
+    OutlineUser,
     OutlineWarning,
 } from "@/icons/outline"
 
