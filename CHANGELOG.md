@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.5.0](https://github.com/Irimold/react-icons/compare/v0.4.1...v0.5.0) (2024-06-27)
+
+
+### Features
+
+* Add pen icon ([2c95999](https://github.com/Irimold/react-icons/commit/2c959996411f71f29dc7d2bea6c5e9fe3b46b6b3))
+* Add user icon ([ad7a4b2](https://github.com/Irimold/react-icons/commit/ad7a4b287ca4eddf2215ec6544ddfe948de1952b))
+
+
+### Bug Fixes
+
+* Remove dependency ([e7745e9](https://github.com/Irimold/react-icons/commit/e7745e9ba1cd3b274bd9dc54fddb6382e3d22f72))
+* **Type:** Omit some props that shouldn't be exposed ([ac91e2d](https://github.com/Irimold/react-icons/commit/ac91e2d7036965fff81a95e0b60bc815ee7ac728))
+
 ## [0.4.1](https://github.com/Irimold/react-icons/compare/v0.4.0...v0.4.1) (2024-06-22)
 
 
