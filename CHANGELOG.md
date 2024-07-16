@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.6.0](https://github.com/Irimold/react-icons/compare/v0.5.0...v0.6.0) (2024-07-16)
+
+
+### Features
+
+* **Filled:** Add new filled icons ([a821c8a](https://github.com/Irimold/react-icons/commit/a821c8a3f08859c649509eec491e84aa858b4772))
+* **Outline:** Add new icons ([84f8c13](https://github.com/Irimold/react-icons/commit/84f8c13a2d78dd776b5278c5a2e774c8621994a0))
+
+
+### Bug Fixes
+
+* **Outline:** Right icon color ([40700d8](https://github.com/Irimold/react-icons/commit/40700d8cf90755559a31c57b455c1b885d2df8f3))
+
 ## [0.5.0](https://github.com/Irimold/react-icons/compare/v0.4.1...v0.5.0) (2024-06-27)
 
 
