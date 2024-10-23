@@ -1,6 +1,6 @@
 {
     "name": "@irimold/react-icons",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "description": "Irimold icons for ReactJs",
     "type": "module",
     "main": "dist/index.umd.js",
