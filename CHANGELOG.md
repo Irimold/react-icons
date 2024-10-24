@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.7.0](https://github.com/Irimold/react-icons/compare/v0.6.1...v0.7.0) (2024-10-24)
+
+
+### Features
+
+* Add brand icons ([b4a4e6b](https://github.com/Irimold/react-icons/commit/b4a4e6b6fe1d7ff9d64798509e118d50c479d538))
+* Add mail icons ([d8293a1](https://github.com/Irimold/react-icons/commit/d8293a1ddfe18329ab6447f30c0f54858ff347a3))
+
 ## [0.6.1](https://github.com/Irimold/react-icons/compare/v0.6.0...v0.6.1) (2024-10-23)
 
 
