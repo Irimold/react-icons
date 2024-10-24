@@ -1,4 +1,11 @@
 export {
+    Github,
+    Instagram,
+    Telegram,
+    X,
+} from "@/icons/brand"
+
+export {
     FilledAssets,
     FilledBack,
     FilledCalendar,
