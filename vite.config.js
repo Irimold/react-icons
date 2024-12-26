@@ -14,8 +14,8 @@ export default defineConfig({
         lib: {
             entry : './src/index.ts',
             name : 'IriReactComponent',
-            formats: ['es', 'umd'],
-            fileName: format => `index.${format}.js`,
+            formats: ['es'],
+            fileName: (format, name) => `${name}.js`,
         },
         rollupOptions: {
             external: [
