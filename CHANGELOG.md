@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/Irimold/react-icons/compare/v0.7.0...v0.8.0) (2024-12-26)
+
+
+### Features
+
+* Upgrade dependencies ([de4a8e6](https://github.com/Irimold/react-icons/commit/de4a8e60abd9d3c816501f7bde3304bbc8946635))
+
 ## [0.7.0](https://github.com/Irimold/react-icons/compare/v0.6.1...v0.7.0) (2024-10-24)
 
 
