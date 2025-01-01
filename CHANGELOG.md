@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.1](https://github.com/Irimold/react-icons/compare/v0.9.0...v0.9.1) (2025-01-01)
+
+
+### Bug Fixes
+
+* Compiled doesn't work on nextjs dev ([52d97c6](https://github.com/Irimold/react-icons/commit/52d97c6273c46d1e1bba244e8a105f411b1a9f80))
+
 ## [0.9.0](https://github.com/Irimold/react-icons/compare/v0.8.0...v0.9.0) (2025-01-01)
 
 
