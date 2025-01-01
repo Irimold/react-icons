@@ -8,7 +8,7 @@ export default defineConfig({
         react(),
         dts({
             insertTypesEntry: true
-        })
+        }),
     ],
     build: {
         lib: {
@@ -24,9 +24,6 @@ export default defineConfig({
                 '@types/react',
                 'react',
             ],
-            output: {
-                preserveModules: true
-            }
         },
     },
     resolve: {
