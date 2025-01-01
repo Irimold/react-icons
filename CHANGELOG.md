@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.9.0](https://github.com/Irimold/react-icons/compare/v0.8.0...v0.9.0) (2025-01-01)
+
+
+### Features
+
+* **Filled:** Add achievement, book, and suitcase icons ([1bc7142](https://github.com/Irimold/react-icons/commit/1bc714277d4196613957fe811064a1fd237197f9))
+* **Outline:** Add achievement, book, and suitcase icons ([44c64a5](https://github.com/Irimold/react-icons/commit/44c64a5cdc4603167035bfd200263b422c60eee5))
+
 ## [0.8.0](https://github.com/Irimold/react-icons/compare/v0.7.0...v0.8.0) (2024-12-26)
 
 
