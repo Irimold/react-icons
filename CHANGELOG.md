@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.2](https://github.com/Irimold/react-icons/compare/v0.9.1...v0.9.2) (2025-01-01)
+
+
+### Reverts
+
+* Revert changes cause the bug is caused by jsx runtime dev ([66eab82](https://github.com/Irimold/react-icons/commit/66eab826e20f560562c1b41cb484e48416de5656))
+
 ## [0.9.1](https://github.com/Irimold/react-icons/compare/v0.9.0...v0.9.1) (2025-01-01)
 
 
