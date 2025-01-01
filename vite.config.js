@@ -12,7 +12,9 @@ export default defineConfig({
     ],
     build: {
         lib: {
-            entry : './src/index.ts',
+            entry : {
+                'index': './src/index.ts'
+            },
             name : 'IriReactComponent',
             formats: ['es'],
             fileName: (format, name) => `${name}.js`,
@@ -22,6 +24,9 @@ export default defineConfig({
                 '@types/react',
                 'react',
             ],
+            output: {
+                preserveModules: true
+            }
         },
     },
     resolve: {

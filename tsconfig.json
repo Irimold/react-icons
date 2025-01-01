@@ -18,8 +18,7 @@
     "include": [
         "**/*.ts", 
         "**/*.tsx", 
-        "**/*.d.ts", 
-        "vite.config.js"
+        "**/*.d.ts"
     ],
     "exclude": [
         "node_modules",
