@@ -23,7 +23,16 @@ export default defineConfig({
             external: [
                 '@types/react',
                 'react',
+                'react-dom',
+                'react/jsx-runtime'
             ],
+            output: {
+                globals: {
+                    'react'             : 'react',
+                    'react-dom'         : 'ReactDOM',
+                    'react/jsx-runtime' : 'react/jsx-runtime',
+                }
+            }
         },
     },
     resolve: {
