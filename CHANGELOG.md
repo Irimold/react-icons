@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.9.2](https://github.com/Irimold/react-icons/compare/v0.9.1...v0.9.2) (2025-01-07)
+
+
+### Bug Fixes
+
+* make sure React jsx runtime is using external runtime ([5aeec0c](https://github.com/Irimold/react-icons/commit/5aeec0cdc687b4236db13fc44625f64d52c1e35a))
+
+
+### Reverts
+
+* Revert changes cause the bug is caused by jsx runtime dev ([66eab82](https://github.com/Irimold/react-icons/commit/66eab826e20f560562c1b41cb484e48416de5656))
+
 ## [0.9.1](https://github.com/Irimold/react-icons/compare/v0.9.0...v0.9.1) (2025-01-01)
 
 
